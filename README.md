@@ -22,11 +22,6 @@ npm start/ yarn start
 ```
 
 5. webpack development server will start at: http://localhost:3000
-6. You also need to start the NodeJS server by typing following command.
-
-```
-nodemon server
-```
 
 ### Post MVP changes
 
