@@ -30,6 +30,7 @@ This project is completed within very limited time, so aside from the fact that 
 Future nice to haves would include:
 
 - Refactor to use `bootstrap` or other library for better styled components
+- Use typescript instead of javascript to avoid potential errors
 - Put a data processor in the node side for parsing the data
 - Write unit tests for major functions, integration test for the project
 - More functionality/two way activities created(such as for submit button). An arcgis map to show the pickup location as pins on map would also be nice.
