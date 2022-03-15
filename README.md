@@ -30,5 +30,8 @@ This project is completed within very limited time, so aside from the fact that 
 Future nice to haves would include:
 * Refactor to use `bootstrap` or other library for better styled components
 * Put a data processor in the node side for parsing the data
-* Write unit tests for major functions
+* Write unit tests for major functions, integration test for the project
 * More functionality/two way activities created(such as for submit button). An arcgis map to show the pickup location as pins on map would also be nice.
+* Deal with the latency of large traffic or potential errors from the GET's response
+* Create reusable library for autocomplete so that others can easily import and use directly. The baseURL can be surfaced as an input parameter as well as number of row limitation and input string.
+* Use heroku or firbase to deploy the code
