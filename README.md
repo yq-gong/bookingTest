@@ -1,6 +1,6 @@
 # Auto-complete Exercise
 
-This is a basic webpage for rendering autocomplete. This product utilizes frontend of VueJS and backend of Node.js.
+This is a basic webpage for rendering auto-complete functionality within a simple search box. This product utilizes frontend of VueJS and backend of Node.js.
 
 ## Getting Started
 
