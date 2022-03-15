@@ -33,6 +33,7 @@ Future nice to haves would include:
 - Use typescript instead of javascript to avoid potential errors and better practice for functions and signatures
 - Put a data processor in the node side for parsing the data
 - Write unit tests for major functions, integration test for the project
+- Utilise the recommedations and show better ranking order for the received suggestions. Add sort/filter ability for the results
 - More functionality/two way activities created(such as for submit button). An arcgis map to show the pickup location as pins on map would also be nice.
 - Deal with the latency of large traffic or potential errors from the GET's response
 - Create reusable library for auto-complete so that others can easily import and use directly. The baseURL can be surfaced as an input parameter as well as number of row limitation and input string.
