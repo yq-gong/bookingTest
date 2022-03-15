@@ -1,4 +1,4 @@
-# VueJSNodeJSTutorial
+# Autocomplete Exercise
 
 This is a basic webpage for rendering autocomplete. This product utilizes frontend of VueJS and backend of Node.js.
 
@@ -14,8 +14,6 @@ Please make sure you have at least one of package manager npm or yarn installed
 ```
 npm install/ yarn install
 ```
-3) You need to install MongoDB database and also start the server of MongoDB
-4) Go to the project folder >> config >> DB.js file and change the URI according to your database connection and credentials.
 
 ```
 npm start/ yarn start
